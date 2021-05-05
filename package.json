@@ -1,0 +1,46 @@
+{
+  "name": "@cocreate/auth",
+  "version": "1.0.0",
+  "description": "A simple auth component in vanilla javascript. Easily configured using HTML5 data-attributes and/or JavaScript API.",
+  "keywords": [
+    "auth",
+    "cocreate",
+    "low-code-framework",
+    "no-code-framework",
+    "cocreatejs",
+    "cocreatejs-component",
+    "cocreate-framework",
+    "no-code",
+    "low-code",
+    "collaborative-framework",
+    "realtime",
+    "realtime-framework",
+    "collaboration",
+    "shared-editing",
+    "html5-framework",
+    "javascript-framework"
+  ],
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "scripts": {
+    "start": "npx webpack --config webpack.config.js --watch",
+    "build": "NODE_ENV=production npx webpack --config webpack.config.js",
+    "docs": "node ./node_modules/@cocreate/docs/src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoCreate-app/CoCreate-auth.git"
+  },
+  "author": "CoCreate LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CoCreate-app/CoCreate-auth/issues"
+  },
+  "main": "./src/index.js",
+  "homepage": "https://cocreate.app/docs/auth",
+  "dependencies": {
+    "@cocreate/docs": "^1.0.3",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
