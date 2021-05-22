@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/CoCreate-app/CoCreate-auth/compare/v1.0.1...v1.0.2) (2021-05-22)
+
+
+### Bug Fixes
+
+* package.json ([5df1d76](https://github.com/CoCreate-app/CoCreate-auth/commit/5df1d7695ff4eb05b9cd170ab4acc369b9b1cfc0))
+
 ## [1.0.1](https://github.com/CoCreate-app/CoCreate-auth/compare/v1.0.0...v1.0.1) (2021-05-22)
 
 
