@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/CoCreate-app/CoCreate-auth/compare/v1.0.3...v1.0.4) (2021-07-17)
+
+
+### Bug Fixes
+
+* package permission ([016d0bf](https://github.com/CoCreate-app/CoCreate-auth/commit/016d0bf8cb4d6fd3bbf321486c4091a0e7111c02))
+
 ## [1.0.3](https://github.com/CoCreate-app/CoCreate-auth/compare/v1.0.2...v1.0.3) (2021-06-23)
 
 
