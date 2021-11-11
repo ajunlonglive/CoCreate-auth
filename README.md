@@ -70,6 +70,13 @@ We want this library to be community-driven, and CoCreate led. We need your help
 
 We appreciate your continued support, thank you!
 
-# License
-
+# Dual License
+## Open Source
 [Server Side Public License (SSPL)](https://github.com/CoCreate-app/CoCreate-auth/blob/master/LICENSE)
+
+## Commercial
+The commercial license is designed for you to use CoCreate-auth in commercial 
+products and applications, without the provisions of the SSPL. With the 
+commercial license, your code is kept propietary, to yourself. If you 
+want to use CoCreate-auth to develop commercial sites, themes, projects, and 
+applications, the commercial license is the appropriate license.
