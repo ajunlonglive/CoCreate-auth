@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/CoCreate-app/CoCreate-auth/compare/v1.0.6...v1.0.7) (2021-11-11)
+
+
+### Bug Fixes
+
+* update .gitignore ([209bdc3](https://github.com/CoCreate-app/CoCreate-auth/commit/209bdc3e6894590966c74a3ae145e755a030d48e))
+
 ## [1.0.6](https://github.com/CoCreate-app/CoCreate-auth/compare/v1.0.5...v1.0.6) (2021-11-01)
 
 
