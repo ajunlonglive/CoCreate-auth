@@ -1,3 +1,11 @@
+## [1.0.8](https://github.com/CoCreate-app/CoCreate-auth/compare/v1.0.7...v1.0.8) (2021-11-11)
+
+
+### Bug Fixes
+
+* licensing information ([253bae3](https://github.com/CoCreate-app/CoCreate-auth/commit/253bae37b40184acefef7846fbdae093883d8e44))
+* update readme ([ae65d57](https://github.com/CoCreate-app/CoCreate-auth/commit/ae65d575fe03c0224670693f30b010f4a78a1797))
+
 ## [1.0.7](https://github.com/CoCreate-app/CoCreate-auth/compare/v1.0.6...v1.0.7) (2021-11-11)
 
 
