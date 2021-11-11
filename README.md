@@ -2,10 +2,10 @@
 
 A convenient chain handler allows user to chain multiple CoCreate components together. When one auth is complete next one will start. The sequence goes untill all auths completed. Grounded on Vanilla javascript, easily configured using HTML5 data-attributes and/or JavaScript API. Take it for a spin in our [playground!](https://cocreate.app/docs/auth)
 
-![GitHub file size in bytes](https://img.shields.io/github/size/CoCreate-app/CoCreate-auth/dist/CoCreate-auth.min.js?label=minified%20size&style=for-the-badge)
-![GitHub latest release](https://img.shields.io/github/v/release/CoCreate-app/CoCreate-auth?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/CoCreate-app/CoCreate-auth?style=for-the-badge)
-![GitHub labels](https://img.shields.io/github/labels/CoCreate-app/CoCreate-auth/help%20wanted?style=for-the-badge)
+![GitHub latest release](https://img.shields.io/github/v/release/CoCreate-app/CoCreate-auth?style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/CoCreate-app/CoCreate-auth?style=flat-square)
+![License](https://img.shields.io/static/v1?style=flat-square&label=license&message=SSPL&color=green)
+![Hiring](https://img.shields.io/static/v1?style=flat-square&label=&message=Hiring&color=blueviolet)
 
 ![CoCreate-auth](https://cdn.cocreate.app/docs/CoCreate-auth.gif)
 
@@ -70,11 +70,17 @@ We want this library to be community-driven, and CoCreate led. We need your help
 
 We appreciate your continued support, thank you!
 
+<a name="license"></a>
 # Dual License
 ## Open Source
 [Server Side Public License (SSPL)](https://github.com/CoCreate-app/CoCreate-auth/blob/master/LICENSE)
 
 ## Commercial
+For-profit companies and individuals intending to use CoCreate-auth for 
+commercial use must purchase a commercial license. This license allows 
+source code modifications, but does not permit redistribution of 
+modifications.
+
 The commercial license is designed for you to use CoCreate-auth in commercial 
 products and applications, without the provisions of the SSPL. With the 
 commercial license, your code is kept propietary, to yourself. If you 
