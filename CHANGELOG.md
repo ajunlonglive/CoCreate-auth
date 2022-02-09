@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/CoCreate-app/CoCreate-auth/compare/v1.0.8...v1.0.9) (2022-02-09)
+
+
+### Bug Fixes
+
+* update CoCreate.config.js, bump @cocreate/docs version ([435d511](https://github.com/CoCreate-app/CoCreate-auth/commit/435d5115aa7ea77a181eb7b48114b6c322834c3a))
+
 ## [1.0.8](https://github.com/CoCreate-app/CoCreate-auth/compare/v1.0.7...v1.0.8) (2021-11-11)
 
 
