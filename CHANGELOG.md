@@ -1,3 +1,10 @@
+## [1.0.12](https://github.com/CoCreate-app/CoCreate-auth/compare/v1.0.11...v1.0.12) (2022-02-28)
+
+
+### Bug Fixes
+
+* config docs wildcard * domain ([0a8fe8c](https://github.com/CoCreate-app/CoCreate-auth/commit/0a8fe8ce9c199e7ad71839f7b365eedbabf7527e))
+
 ## [1.0.11](https://github.com/CoCreate-app/CoCreate-auth/compare/v1.0.10...v1.0.11) (2022-02-16)
 
 
