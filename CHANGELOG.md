@@ -1,3 +1,10 @@
+## [1.0.13](https://github.com/CoCreate-app/CoCreate-auth/compare/v1.0.12...v1.0.13) (2022-05-06)
+
+
+### Bug Fixes
+
+* update config organization_Id to organization_id ([b32832f](https://github.com/CoCreate-app/CoCreate-auth/commit/b32832ff9782df068dc573abf7dd5da64ed6382b))
+
 ## [1.0.12](https://github.com/CoCreate-app/CoCreate-auth/compare/v1.0.11...v1.0.12) (2022-02-28)
 
 
