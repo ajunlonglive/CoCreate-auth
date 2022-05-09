@@ -20,7 +20,7 @@ class CoCreateAuth {
     }
     
     async generateToken({user_id}) {
-        console.log('token------', {user_id}, this.config)
+        console.log('token---+---', {user_id}, this.config)
         const {key, options} = this.config
         const result = {
             token: jwt.sign({user_id}, key, options),
