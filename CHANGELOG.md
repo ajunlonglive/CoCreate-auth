@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/CoCreate-app/CoCreate-auth/compare/v1.1.0...v1.1.1) (2022-05-09)
+
+
+### Bug Fixes
+
+* if process.env set it in config object ([f24d57f](https://github.com/CoCreate-app/CoCreate-auth/commit/f24d57f03e243bb881cbed22f26c10536d97beab))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-auth/compare/v1.0.14...v1.1.0) (2022-05-09)
 
 
