@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/CoCreate-app/CoCreate-auth/compare/v1.0.14...v1.1.0) (2022-05-09)
+
+
+### Bug Fixes
+
+* test auth ([03dd640](https://github.com/CoCreate-app/CoCreate-auth/commit/03dd64021e8c7946caa816b17e5e5c34774831fe))
+
+
+### Features
+
+* test release ([0826d11](https://github.com/CoCreate-app/CoCreate-auth/commit/0826d116332dc0bebc1bcd2824d84d9bcd0c34df))
+
 ## [1.0.14](https://github.com/CoCreate-app/CoCreate-auth/compare/v1.0.13...v1.0.14) (2022-05-08)
 
 
