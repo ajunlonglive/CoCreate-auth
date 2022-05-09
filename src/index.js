@@ -20,12 +20,18 @@ class CoCreateAuth {
     }
     
     async generateToken({user_id}) {
-        console.log('token---+---', {user_id}, this.config)
-        const {key, options} = this.config
-        const result = {
-            token: jwt.sign({user_id}, key, options),
-        }
-        return result.token;
+        try {
+            if (process.env.JWT_KEY)
+                this.config['key'] = process.env.JWT_KEY
+            console.log('token created', {user_id}, this.config)
+            const {key, options} = this.config
+            const result = {
+                token: jwt.sign({user_id}, key, options),
+            }
+            return result.token;
+        } catch (err) {
+            return null
+        }  
     }
     
     async getUserId(req) {
