@@ -1,3 +1,11 @@
+## [1.1.2](https://github.com/CoCreate-app/CoCreate-auth/compare/v1.1.1...v1.1.2) (2022-05-11)
+
+
+### Bug Fixes
+
+* console.log ([ce0738e](https://github.com/CoCreate-app/CoCreate-auth/commit/ce0738ebefcd9f715bf4fd97842fdb3d87bf50f7))
+* if token is not null verfyToken ([58256d9](https://github.com/CoCreate-app/CoCreate-auth/commit/58256d9d8295a00180b8252e482e6ff11dbe833f))
+
 ## [1.1.1](https://github.com/CoCreate-app/CoCreate-auth/compare/v1.1.0...v1.1.1) (2022-05-09)
 
 
