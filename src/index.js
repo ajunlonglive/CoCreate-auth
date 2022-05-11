@@ -68,8 +68,8 @@ class CoCreateAuth {
             token = headers['sec-websocket-protocol'];
         }
 
-        let result = {}
-        if (token) {
+        let result = null;
+        if (token && token !== 'null') {
             result = await this.verifiyToken(token);
         } 
         
@@ -81,9 +81,9 @@ class CoCreateAuth {
     }
     
     async verifiyToken(token) {
-        let decoded;
         try {
-            decoded = await jwt.verify(token, this.config.key)
+            let decoded = await jwt.verify(token, this.config.key)
+            return decoded;
         } catch (err) {
             if (err.message === 'jwt expired') {
                 console.log('Expired Token')
@@ -92,11 +92,11 @@ class CoCreateAuth {
                 console.log('Invalid Token')
                 return null
             } else {
-                console.log('invalid token')
+                console.log('Invalid token', token)
                 return null;
             }
         }
-        return decoded;
+        
     }
 }
 
