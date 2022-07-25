@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/CoCreate-app/CoCreate-auth/compare/v1.2.0...v1.2.1) (2022-07-25)
+
+
+### Bug Fixes
+
+* replaced attribute pass-fetch_value with pass-filter-value ([770942e](https://github.com/CoCreate-app/CoCreate-auth/commit/770942efd44954e51c6acb2e4a1250dbba43f8b3))
+
 # [1.2.0](https://github.com/CoCreate-app/CoCreate-auth/compare/v1.1.2...v1.2.0) (2022-05-14)
 
 
