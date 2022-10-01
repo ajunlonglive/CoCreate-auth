@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/CoCreate-app/CoCreate-auth/compare/v1.2.3...v1.2.4) (2022-10-01)
+
+
+### Bug Fixes
+
+* bump [@cocreate](https://github.com/cocreate) dependencies ([e9ad18c](https://github.com/CoCreate-app/CoCreate-auth/commit/e9ad18c1377cbdaf9996aa2f0022652700a5d299))
+
 ## [1.2.3](https://github.com/CoCreate-app/CoCreate-auth/compare/v1.2.2...v1.2.3) (2022-10-01)
 
 
